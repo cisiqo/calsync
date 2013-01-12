@@ -185,7 +185,7 @@
     // **********************
     //  BackendCalDAV settings
     // **********************
-    define('CALDAV_SERVER', 'http://10.2.5.192');
+    define('CALDAV_SERVER', 'http://127.0.0.1');
     // define('CALDAV_SERVER', 'http://dav.cmri.cn');
     define('CALDAV_PORT', '80');
     define('CALDAV_PATH', '/cal.php/principals/%u/');
